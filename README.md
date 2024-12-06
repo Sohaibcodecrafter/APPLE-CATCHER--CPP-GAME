@@ -37,7 +37,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/apple-catcher-game.git
+git clone https://github.com/Sohaibcodecrafter/apple-catcher-game.git
 cd apple-catcher-game
 Install Dependencies:
 Download and set up the Raylib library for your system.
